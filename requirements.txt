@@ -1,0 +1,3 @@
+tkinter as tk
+ctypes
+subprocess
